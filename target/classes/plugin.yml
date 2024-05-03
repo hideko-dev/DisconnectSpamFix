@@ -1,0 +1,3 @@
+name: DisconnectSpamFix
+version: '1.0'
+main: dev.hideko.disconnectspamfix.DisconnectSpamFix
